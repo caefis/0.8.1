@@ -59,7 +59,7 @@
     "markdownlint-cli2": "^0.13.0",
     "mermaid": "^10.9.0",
     "node-fetch": "^3.3.0",
-    "pdfjs-dist": "^4.2.67",
+    "pdfjs-dist": "^4.4.168",
     "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0",
     "prettier": "3.2.5",
